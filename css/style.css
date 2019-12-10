@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size: 15px;
+	color: #777;
+}
+header{
+	position: absolute;
+	background-color: transparent;
+	width: 100%;
+	top:0;
+}
+#hero{
+	background-image: url("../img/header-bg.jpg");
+	padding: 50% 0;
+	background-repeat: no-repeat;
+}
+#hero h3{
+	text-transform: uppercase;
+	color: #000;
+	font-size: 14px;
+}
+#hero h1{
+	color: #000;
+	font-size: 25px;
+}
+#about h2{
+	color: #b68834;
+	font-size: 14px;
+	margin: 5% 0;
+	text-transform: uppercase;
+}
+#about h1{
+	font-size: 25px;
+	color: #222222;
+	margin: 5% 0;
+}
+#about h3{
+	font-size: 14px;
+	color: #222222;
+	margin: 5% 0;
+}
+#about p{
+	color: #777;
+}
+#menu{
+	background-image: url("../img/menu-bg.jpg");
+	padding: 15% 0;
+}
+#menu h1, p{
+	margin: 3% 0;
+}
+#menu h1{
+	text-align: center;
+	font-size: 35px;
+	color: #222222;
+}
+#menu p{
+	text-align: center;
+	color: #777;
+	font-size: 10px;
+}
+#kind h1{
+	text-align: center;
+	font-size: 25px;
+	color: #222222;
+	margin: 5% 0;	
+}
+#kind{
+	background-color: #fff;
+}
+#blog h1{
+	text-align: center;
+	font-size: 25px;
+	color: #222222;
+	margin: 5% 0;
+}
+	
+#blog{
+	background-color: #f8f8f8;
+}
+#final{
+	background-image: url("../img/footer-bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top:350px;
+}
+.titulo h2{
+	color: #000;
+	font-size: 50px;
+	font-weight:bold;
+	margin-top: 100px;
+	margin-bottom: 20px;
+	font-style: bold;
+}
+p{
+	text-align: center;
+	font-size: 15px;
+}
+.texto-corto {
+	text-align: left;
+}
+#blog h3{
+	margin: 20px 0;
+	color: #000;
+	font-size: 13px;
+	font-weight: bold;
+}
+#blog h4{
+	color: #000;
+	font-size: 20px;
+	font-weight: bold;
+}
+#blog h5{
+	margin: 20px 0;
+	color: #000;
+	font-size: 13px;
+	font-weight: bold;
+}
+#final p{
+	margin: 20px 0;
+	color: #fff;
+	font-size: 13px;
+	font-weight: bold;
+}
+i{
+	font-size: 70px;
+	color: #fff;
+}
